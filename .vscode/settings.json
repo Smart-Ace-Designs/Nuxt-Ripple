@@ -4,6 +4,4 @@
   "tailwindCSS.experimental.classRegex": [["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"]],
   "tailwindCSS.emmetCompletions": true,
   "editor.defaultFormatter": "oxc.oxc-vscode",
-  "editor.formatOnSave": true
 }
-
