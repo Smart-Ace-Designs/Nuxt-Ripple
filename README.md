@@ -11,7 +11,7 @@ The template includes:
 - [Oxfmt](https://oxc.rs/docs/guide/usage/formatter.html/)
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
-- Default _.vscode_ files for Oxmft and Tailwind CSS settings and recommended extensions
+- Default _.vscode_ files for Oxfmt and Tailwind CSS settings and recommended extensions
 - A blank _index.vue_ page
 - The `dev` script set to `"nuxt dev -o"`
 
