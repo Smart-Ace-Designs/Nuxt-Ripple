@@ -1,12 +1,9 @@
-import type { OxfmtConfig } from "oxfmt";
+import { defineConfig } from "oxfmt";
 
-const config: OxfmtConfig = {
+export default defineConfig({
   ignorePatterns: [],
-  lineWidth: 100,
   sortTailwindcss: {
     stylesheet: "./app/assets/css/main.css",
     functions: ["clsx", "cn"],
   },
-};
-
-export default config;
+});
