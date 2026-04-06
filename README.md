@@ -49,7 +49,7 @@ After deploying the Nuxt **ripple** template you will see the following files an
 │   │   └── index.vue
 │   └── app.vue
 ├── public/
-│   ├── favicon.ion
+│   ├── favicon.ico
 │   └── robots.txt
 ├── .gitignore
 ├── nuxt.config.ts
