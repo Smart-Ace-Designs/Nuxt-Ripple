@@ -1,6 +1,6 @@
 # Nuxt Template: Ripple
 
-Nuxt **Ripple** is an opinionated Nuxt 4 starter template with built-in support for Tailwind CSS and Oxfmt and includes a blank default "index.vue" page.
+Nuxt **Ripple** is an opinionated [Nuxt 4](https://nuxt.com/) starter template with built-in support for Tailwind CSS and Oxfmt and includes a blank default "index.vue" page.
 
 Using `create nuxt@latest` provides everything you need to create a basic Nuxt application. However, it is missing a few useful items that you might find yourself manually adding to every new Nuxt project. The **Ripple** template was created to automatically include these items. This provides a great starting point for a new Nuxt project with Tailwind.
 
@@ -28,9 +28,6 @@ bunx giget gh:smart-ace-designs/nuxt-ripple project-name
 ```sh
 npx giget gh:smart-ace-designs/nuxt-ripple project-name
 ```
-
-> [!Note]
-> You should manually clear the contents of this README file after deployment.
 
 ## Project Structure
 
