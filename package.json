@@ -19,6 +19,6 @@
     "vue-router": "^5.0.7"
   },
   "devDependencies": {
-    "oxfmt": "^0.51.0"
+    "oxfmt": "^0.52.0"
   }
 }
