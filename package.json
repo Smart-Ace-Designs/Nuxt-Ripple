@@ -16,7 +16,7 @@
     "nuxt": "^4.4.6",
     "tailwindcss": "^4.2.4",
     "vue": "^3.5.35",
-    "vue-router": "^5.0.7"
+    "vue-router": "^5.1.0"
   },
   "devDependencies": {
     "oxfmt": "^0.52.0"
