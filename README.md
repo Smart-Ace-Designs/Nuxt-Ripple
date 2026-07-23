@@ -8,7 +8,7 @@ The template includes:
 
 - An initial Nuxt project structure
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Oxfmt](https://oxc.rs/docs/guide/usage/formatter.html/)
+- [Oxfmt](https://oxc.rs/docs/guide/usage/formatter.html)
 - Initial <head> elements for language and title set in _nuxt.config.ts_
 - A default _main.css_ file
 - Default _.vscode_ files for Oxfmt and Tailwind CSS settings and recommended extensions
