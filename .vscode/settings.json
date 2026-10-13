@@ -1,10 +1,23 @@
 {
-  "files.associations": { "*.css": "tailwindcss" },
-  "tailwindCSS.classAttributes": ["active-class", "class", "inactive-class", "ui"],
-  "tailwindCSS.experimental.classRegex": [
-    ["ui:\\s*{([^)]*)\\s*}", "(?:'|\"|`)([^']*)(?:'|\"|`)"],
-    ["bodyAttrs:\\s*{[^}]*class:\\s*['\"`]([^'\"`]*)['\"`]", "([^ ]*)"]
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.classAttributes": [
+    "active-class",
+    "class",
+    "inactive-class",
+    "ui"
   ],
   "tailwindCSS.emmetCompletions": true,
-  "editor.defaultFormatter": "oxc.oxc-vscode"
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "ui:\\s*{([^)]*)\\s*}",
+      "(?:'|\"|`)([^']*)(?:'|\"|`)"
+    ],
+    [
+      "bodyAttrs:\\s*{[^}]*class:\\s*['\"`]([^'\"`]*)['\"`]",
+      "([^ ]*)"
+    ]
+  ]
 }

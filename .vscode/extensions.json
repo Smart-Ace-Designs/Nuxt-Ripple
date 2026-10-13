@@ -1,3 +1,7 @@
 {
-  "recommendations": ["bradlc.vscode-tailwindcss", "oxc.oxc-vscode", "vue.volar"]
+  "recommendations": [
+    "bradlc.vscode-tailwindcss",
+    "oxc.oxc-vscode",
+    "vue.volar"
+  ]
 }
