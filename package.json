@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "oxfmt": "^0.75.0"
+  },
+  "overrides": {
+    "@nuxt/devtools": "^4.0.0"
   }
 }
