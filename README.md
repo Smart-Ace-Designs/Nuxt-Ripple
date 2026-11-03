@@ -32,7 +32,7 @@ npx giget gh:smart-ace-designs/nuxt-ripple project-name --ignore README.md
 ### pnpm
 
 ```sh
-pnx giget gh:smart-ace-designs/nuxt-splash project-name --ignore README.md
+pnx giget gh:smart-ace-designs/nuxt-ripple project-name --ignore README.md
 ```
 
 ## Project Structure
