@@ -58,6 +58,5 @@ After deploying the Nuxt **ripple** template you will see the following files an
 ├── nuxt.config.ts
 ├── oxfmt.config.ts
 ├── package.json
-├── README.md
 └── tsconfig.json
 ```
