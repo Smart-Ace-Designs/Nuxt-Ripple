@@ -37,7 +37,7 @@ pnx giget gh:smart-ace-designs/nuxt-ripple project-name --ignore README.md
 
 ## Project Structure
 
-After deploying the Nuxt **ripple** template you will see the following files and directories in your project root:
+After deploying the Nuxt **Ripple** template you will see the following files and directories in your project root:
 
 ```text
 /
