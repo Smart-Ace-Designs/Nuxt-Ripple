@@ -19,7 +19,7 @@
     "vue-router": "^5.4.0"
   },
   "devDependencies": {
-    "oxfmt": "^0.77.0"
+    "oxfmt": "^0.78.0"
   },
   "overrides": {
     "@nuxt/devtools": "^4.1.0"
