@@ -4,5 +4,6 @@ export default defineConfig({
   sortTailwindcss: {
     stylesheet: "./app/assets/css/main.css",
     functions: ["clsx", "cn"],
+    attributes: ["active-class", "inactive-class", "ui"],
   },
 });
